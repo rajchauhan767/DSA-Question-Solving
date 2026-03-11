@@ -19,5 +19,4 @@ for (a = 1; a <= limit; a++) {
 
 return 0;
 ```
-
 }
